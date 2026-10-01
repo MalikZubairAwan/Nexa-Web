@@ -1,0 +1,124 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+    <rect width="800" height="500" rx="24" fill="#172033"/>
+
+    <!-- Background Grid -->
+    <path d="M80 0V500" stroke="#27334A"/>
+    <path d="M160 0V500" stroke="#27334A"/>
+    <path d="M240 0V500" stroke="#27334A"/>
+    <path d="M320 0V500" stroke="#27334A"/>
+    <path d="M400 0V500" stroke="#27334A"/>
+    <path d="M480 0V500" stroke="#27334A"/>
+    <path d="M560 0V500" stroke="#27334A"/>
+    <path d="M640 0V500" stroke="#27334A"/>
+    <path d="M720 0V500" stroke="#27334A"/>
+
+    <path d="M0 80H800" stroke="#27334A"/>
+    <path d="M0 160H800" stroke="#27334A"/>
+    <path d="M0 240H800" stroke="#27334A"/>
+    <path d="M0 320H800" stroke="#27334A"/>
+    <path d="M0 400H800" stroke="#27334A"/>
+
+
+    <!-- Main Window -->
+    <rect
+        x="70"
+        y="70"
+        width="660"
+        height="360"
+        rx="24"
+        fill="#172033"
+        stroke="white"
+        stroke-width="3"
+    />
+
+
+    <!-- Left Panel -->
+    <rect
+        x="105"
+        y="115"
+        width="305"
+        height="270"
+        rx="16"
+        fill="#F6F8FB"
+    />
+
+    <rect
+        x="135"
+        y="155"
+        width="110"
+        height="20"
+        fill="#172033"
+    />
+
+    <rect
+        x="135"
+        y="205"
+        width="230"
+        height="15"
+        fill="#C9D0DC"
+    />
+
+    <rect
+        x="135"
+        y="235"
+        width="200"
+        height="15"
+        fill="#C9D0DC"
+    />
+
+    <rect
+        x="135"
+        y="285"
+        width="210"
+        height="70"
+        rx="8"
+        stroke="#276EF1"
+        stroke-width="4"
+    />
+
+
+    <!-- Right Top Panel -->
+    <rect
+        x="440"
+        y="115"
+        width="255"
+        height="70"
+        rx="14"
+        fill="#276EF1"
+    />
+
+
+    <!-- Right Bottom Panel -->
+    <rect
+        x="440"
+        y="210"
+        width="255"
+        height="175"
+        rx="14"
+        stroke="#8FB5FF"
+        stroke-width="3"
+    />
+
+    <circle
+        cx="497"
+        cy="272"
+        r="28"
+        fill="#276EF1"
+    />
+
+    <path
+        d="M530 330L590 275L640 315"
+        stroke="white"
+        stroke-width="6"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+    />
+
+    <path
+        d="M470 345H650"
+        stroke="#8FB5FF"
+        stroke-width="3"
+    />
+
+</svg>
